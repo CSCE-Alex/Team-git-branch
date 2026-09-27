@@ -4,4 +4,8 @@ This project is meant to create a hurricane relief system and app that can assis
 Collaborators: Alex Perez, Danny Cruz, Melinda Guo, Ronnie Gutierrez, Nandasai Allada
 
 Documents:
-(insert document links after theyre finished)
+https://github.com/CSCE-Alex/Team-git-branch/blob/main/docs/GPP Requirements.pdf
+https://github.com/CSCE-Alex/Team-git-branch/blob/main/docs/GPP Sequence Diagram.pdf
+https://github.com/CSCE-Alex/Team-git-branch/blob/main/docs/GPP-UML.pdf
+https://github.com/CSCE-Alex/Team-git-branch/blob/main/docs/uml-sequence-diagram1.pdf
+https://github.com/CSCE-Alex/Team-git-branch/blob/main/docs/uml-sequence-diagram2.pdf
